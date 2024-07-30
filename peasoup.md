@@ -4,4 +4,5 @@
 - potato (£6000)
 # Instructions
 - Shell them peases
+- Put peas into a pan.
 
