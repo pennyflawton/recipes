@@ -3,5 +3,4 @@
 - spring onions (£200)
 - potato (£6000)
 # Instructions
-- Step 1
-
+- Put peas into a pan.
