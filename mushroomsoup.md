@@ -1,5 +1,5 @@
 # Ingredients
 - onions
 - garlic
-- chestnut mushrooms
+- button mushrooms
 # Instructions
