@@ -1,9 +1,9 @@
-#spring onions
+# spring onions
 - Waitrose: £40000
 - Marks and Spencer:£3000
 - Aldi: £400
 
-#peas
+# peas
 - Waitrose: £4000
 - Marks and Spencer: £2000
 - Aldi: £1000
