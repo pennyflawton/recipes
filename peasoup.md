@@ -3,5 +3,5 @@
 - spring onions (£200)
 - potato (£6000)
 # Instructions
-- Step 1
+- Shell them peases
 
